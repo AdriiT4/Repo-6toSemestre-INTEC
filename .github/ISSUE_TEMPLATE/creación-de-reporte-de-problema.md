@@ -1,7 +1,7 @@
 ---
 name: Creación de Reporte de Problema
 about: Crea un reporte para ayudar a la mejora del proyecto
-title: ''
+title: "[TIPO] [FEATURE] Titulo de entendible"
 labels: ''
 assignees: ''
 
@@ -17,7 +17,7 @@ Pasos para reproducir el comportamiento:
 2. Hacer clic en '....'
 3. Desplazarse hacia abajo hasta '....'
 4. Ver el error
- 
+
 **Comportamiento esperado**
 Una descripción clara y concisa de lo que esperabas que sucediera.
 
